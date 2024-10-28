@@ -1,0 +1,7 @@
+8 5 ftc vasas
+5 5 ute	kispest
+9 4 paks gyor
+6 2 kecskemet videoton
+3 5 dvsc dvtk
+14 3 szolnok szeged
+10 3 eger szentes
